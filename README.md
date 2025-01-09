@@ -1,3 +1,3 @@
 # curry_company
 
-### This repository contains files and scripts to built a company strategy dashboard.
+### Arquivos e scripts para construir um painel de estratégia da empresa.
